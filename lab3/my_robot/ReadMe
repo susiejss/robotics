@@ -1,0 +1,10 @@
+
+dataset is lcm-log-run1
+
+open matlab;
+
+open lab3read.m
+open fit_ellipse.m
+
+run lab3read.m
+you'll get plots.

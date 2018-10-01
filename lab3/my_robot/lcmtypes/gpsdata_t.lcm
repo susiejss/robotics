@@ -1,0 +1,11 @@
+package structgps;
+
+struct gpsdata_t
+{
+    float time;
+    float lat; 
+    float lon;
+    float alt;
+    float utm_x;
+    float utm_y;
+}
