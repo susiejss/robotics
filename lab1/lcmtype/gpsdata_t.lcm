@@ -1,0 +1,14 @@
+package structgps;
+
+struct gpsdata_t
+{
+    string time;
+    string latitude;
+    string latDir; 
+    string longitude;
+    string lonDir;
+    string altitude;
+    string utm_x;
+    string utm_y;
+
+}
